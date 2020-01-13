@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=*1 NewDesignator=U1
+Added Member To Class: ClassName=STM32F051C6 Lite Development Board Member=Component C1 Cap
+Added Member To Class: ClassName=STM32F051C6 Lite Development Board Member=Component C7 Cap
+Added Member To Class: ClassName=STM32F051C6 Lite Development Board Member=Component P1 Header 4H
+Added Member To Class: ClassName=STM32F051C6 Lite Development Board Member=Component P2 Header 24

@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Added Component: Designator=U2(STM Debugger)
+Added Pin To Net: NetName=+5 Pin=U2-1
+Added Pin To Net: NetName=+3V3 Pin=U2-2
+Added Pin To Net: NetName=USB_N Pin=U2-3
+Added Pin To Net: NetName=USB_P Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=NSRT Pin=U2-6
+Added Pin To Net: NetName=SWCLK Pin=U2-7
+Added Pin To Net: NetName=SWDAT Pin=U2-8
+Added Member To Class: ClassName=STM32F051C6 Lite Development Board Member=Component U3 STM32F051C6T6 Baracuda Breakout

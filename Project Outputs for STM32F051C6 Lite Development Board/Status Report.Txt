@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [STM32F051C6 Lite Development Board.PrjPcb]
+   Generated File[STM32F051C6 Lite Development Board.TXT]
+   Generated File[STM32F051C6 Lite Development Board.LDP]
+   Generated File[STM32F051C6 Lite Development Board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:25:55 On 2020/01/07

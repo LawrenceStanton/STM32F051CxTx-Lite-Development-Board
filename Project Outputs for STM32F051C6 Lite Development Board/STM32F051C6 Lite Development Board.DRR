@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: STM32F051C6 Lite Development Board.PcbDoc   2020/01/07  20:25:55
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : STM32F051C6 Lite Development Board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      30mil (0.762mm)                                           Round             73        PTH        0.00inch (0.00mm)
+T2      33mil (0.85mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             55        PTH        0.00inch (0.00mm)
+T4      39mil (1mm)                                               Round             4         PTH        0.00inch (0.00mm)
+T5      94mil (2.4mm)                                             Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              136
+
+Total Processing Time (hh:mm:ss) : 00:00:00
