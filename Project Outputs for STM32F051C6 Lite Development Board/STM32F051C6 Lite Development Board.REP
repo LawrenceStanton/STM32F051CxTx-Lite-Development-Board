@@ -2,15 +2,29 @@
 FileName = STM32F051C6 Lite Development Board.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : STM32F051C6 Lite Development Board.GBO
+Generating : Top Layer
+      File : STM32F051C6 Lite Development Board.GTL
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D13
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
 *************************************************************
 
 *************************************************************
@@ -39,6 +53,39 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Pad Master
+      File : STM32F051C6 Lite Development Board.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : STM32F051C6 Lite Development Board.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Top Solder
       File : STM32F051C6 Lite Development Board.GTS
 
@@ -64,17 +111,29 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : STM32F051C6 Lite Development Board.GTO
+Generating : Bottom Layer
+      File : STM32F051C6 Lite Development Board.GBL
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
+    D25
+    D26
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
 *************************************************************
 
 *************************************************************
@@ -101,6 +160,32 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Overlay
+      File : STM32F051C6 Lite Development Board.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : STM32F051C6 Lite Development Board.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D13
+*************************************************************
+
+*************************************************************
 Generating : Mechanical 1
       File : STM32F051C6 Lite Development Board.GM1
 
@@ -109,89 +194,5 @@ Generating : Mechanical 1
 
 Used DCodes :
     D40
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : STM32F051C6 Lite Development Board.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : STM32F051C6 Lite Development Board.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D25
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : STM32F051C6 Lite Development Board.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : STM32F051C6 Lite Development Board.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
 *************************************************************
 

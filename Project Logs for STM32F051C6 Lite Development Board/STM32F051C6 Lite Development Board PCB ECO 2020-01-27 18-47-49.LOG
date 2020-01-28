@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=USB_P Pin=J1-2
+Removed Pin From Net: NetName=USB_N Pin=J1-3
+Change Component Comment : Designator=C1 Old Comment=Cap New Comment=Ceramic Capacitor
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=Ceramic Capacitor
+Change Component Comment : Designator=C3 Old Comment=Cap New Comment=Ceramic Capacitor
+Change Component Comment : Designator=C4 Old Comment=Cap New Comment=Ceramic Capacitor
+Change Component Comment : Designator=C5 Old Comment=Cap New Comment=Ceramic Capacitor
+Change Component Comment : Designator=C6 Old Comment=Cap New Comment=Ceramic Capacitor
+Change Component Comment : Designator=C7 Old Comment=Cap New Comment=Ceramic Capacitor
+Change Component Comment : Designator=P1 Old Comment=Header 4H New Comment=SWD Header
+Change Component Comment : Designator=P2 Old Comment=Header 24 New Comment=Jumper Headers
+Change Component Comment : Designator=P3 Old Comment=Header 24 New Comment=Jumper Headers
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=BOOT PDR
+Added Pin To Net: NetName=USB_N Pin=J1-2
+Added Pin To Net: NetName=USB_P Pin=J1-3
+Change Class Name : Old Net Name=STM32F051C6 Lite Development Board New Net Name=Schematic
+Added Room: Name=Schematic
